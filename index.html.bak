@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "Nothing will be changed, unless you want."
+description: "Thinking will not overcome fear but action will."
 ---
 
 {% for post in paginator.posts %}
